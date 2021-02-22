@@ -47,8 +47,8 @@ education:
       time: 2017 - 2021
       #details: |
      
-projects: Project
-    title: 
+projects: 
+    title: Project
     intro: >
       FPGA Implementation of Viterbi Decoder
       (Graduation Project for Undergraduate Course, 2020)
